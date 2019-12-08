@@ -1,0 +1,3 @@
+recursive-include health_app/static *
+recursive-include health_app/assets *
+recursive-include health_app/templates *
